@@ -1,6 +1,7 @@
-# Repositorio de Certificaciones - Desarrollador Backend Java
+# Repositorio de Certificaciones
 
 Este repositorio almacena las certificaciones que he obtenido a lo largo de mi carrera como desarrollador de backend en Java.
+
 Aclaración: en su mayoría hay certificaciones relacionadas al mundo dev web (más que nada backend), pero no descarto que en un
 futuro haya cosas del estilo: Inteligencia Artificial, Programacion de Microcontroladores, entre otras cosas de mi interés
 

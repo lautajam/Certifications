@@ -20,15 +20,13 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Description**: With this course, I revisited the world of Java, learning the basics to prepare for subsequent courses.
 - [**Course Link**](https://todocodeacademy.com/course/java-para-principiantes/)
 
-### Introduction to MySQL Course
-
+### [Introduction to MySQL Course](https://github.com/lautajam/Certifications/blob/main/MySQL_Introduction_TodoCode.pdf)
 - **Date of Achievement**: 09/21/23
 - **Certifying Entity**: [TodoCodeAcademy](https://todocodeacademy.com/)
 - **Description**: This course covered the fundamentals of MySQL, offering various exercises to reinforce the concepts learned. These exercises were immensely helpful for understanding the course material.
 - [**Course Link**](https://todocodeacademy.com/course/introduccion-a-las-bases-de-datos-con-mysql/)
 
-### Object-Oriented Programming (OOP) with Java Course
-
+### [Object-Oriented Programming (OOP) with Java Course](https://github.com/lautajam/Certifications/blob/main/OOP_Java_Courso_TodoCode.pdf)
 - **Date of Achievement**: 09/27/23
 - **Certifying Entity**: [TodoCodeAcademy](https://todocodeacademy.com/)
 - **Description**: This extensive course delved into the principles of Object-Oriented Programming (OOP), providing detailed explanations of the usage of various special data types. It also included several final projects (repositories for which can be found on my GitHub).

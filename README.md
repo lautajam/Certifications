@@ -1,34 +1,36 @@
-# Repositorio de Certificaciones
+# Certification Repository
 
-Este repositorio almacena las certificaciones que he obtenido a lo largo de mi carrera como desarrollador de backend en Java.
+This repository stores the certifications I have obtained throughout my career as a Java backend developer.
 
-**Aclaración:** en su mayoría hay certificaciones relacionadas al mundo dev web (más que nada backend), pero no descarto que en un
-futuro haya cosas del estilo: Inteligencia Artificial, Programacion de Microcontroladores, entre otras cosas de mi interés.
+**Note:** Most of these certifications are related to the web development world, primarily backend, but I do not rule out the possibility of including certifications related to topics such as Artificial Intelligence, Microcontrollers Programming, among other areas of my interest.
 
-## Certificaciones
+## Certifications
 
-A continuación, se enumeran las certificaciones relevantes para mi perfil:
+Below, you'll find a list of certifications relevant to my profile:
 
-1. [**Curso en FrontEnd con Bootstrap y Sass**](https://github.com/lautajam/Certifications/blob/main/FrontEnd_HTML-CSS-Bootstrap-Sass-Js_Bluuweb_Udemy.pdf)
-    - **Fecha de Obtención**: 25-11-22
-    - **Entidad Certificadora**: [Udemy](https://www.udemy.com/)
-    - **Descripción**: En esta certificación aprendí sobre el mundo frontend: HTML, CSS y Js. Con el enfoque especial en aprender sobre el framework Bootstrap y sobre Saas, pudiendo hacer asi  frontend de calidad, lindos y fáciles.
-    - [**Link del curso**](https://www.udemy.com/course/curso-bootstrap-5/)
+### [FrontEnd Certification with Bootstrap and Sass](https://github.com/lautajam/Certifications/blob/main/FrontEnd_HTML-CSS-Bootstrap-Sass-Js_Bluuweb_Udemy.pdf)
+- **Date of Achievement**: 11/25/22
+- **Certifying Entity**: [Udemy](https://www.udemy.com/)
+- **Description**: In this certification, I learned about the frontend world, focusing on HTML, CSS, and JavaScript. Special emphasis was placed on learning the Bootstrap framework and Sass, enabling the creation of high-quality, attractive, and user-friendly frontend interfaces.
+- [**Course Link**](https://www.udemy.com/course/curso-bootstrap-5/)
 
-2. [**Curso de Java para principiantes**](https://github.com/lautajam/Certifications/blob/main/Java_beginners_Course_TodoCode.pdf)
-    - **Fecha de Obtención**: 18-09-23
-    - **Entidad Certificadora**: [TodoCodeAcademy](https://todocodeacademy.com/)
-    - **Descripción**: Con este curso reincursioné en el mundo de Java, aprendiendo así lo básico para poder implementarlo en cursos siguientes.
-    - [**Link del curso**](https://todocodeacademy.com/course/java-para-principiantes/)
+### [Java for Beginners Course](https://github.com/lautajam/Certifications/blob/main/Java_beginners_Course_TodoCode.pdf)
+- **Date of Achievement**: 09/18/23
+- **Certifying Entity**: [TodoCodeAcademy](https://todocodeacademy.com/)
+- **Description**: With this course, I revisited the world of Java, learning the basics to prepare for subsequent courses.
+- [**Course Link**](https://todocodeacademy.com/course/java-para-principiantes/)
 
-3. [**Curso de Introducción a MySQL**](https://github.com/lautajam/Certifications/blob/main/MySQL_Introduction_TodoCode.pdf)
-    - **Fecha de Obtención**: 21-09-23
-    - **Entidad Certificadora**: [TodoCodeAcademy](https://todocodeacademy.com/)
-    - **Descripción**: Se incursionó sobre lo más usado en MySQL, dando varios ejercicios para reforzar lo aprendido, siendo estos de gran ayuda para el entendimiento del curso.
-    - [**Link del curso**](https://todocodeacademy.com/course/introduccion-a-las-bases-de-datos-con-mysql/)
+### Introduction to MySQL Course
 
-4. [**Curso de OOP con Java**](https://github.com/lautajam/Certifications/blob/main/OOP_Java_Courso_TodoCode.pdf)
-    - **Fecha de Obtención**: 27-09-23
-    - **Entidad Certificadora**: [TodoCodeAcademy](https://todocodeacademy.com/)
-    - **Descripción**: Curso bastante extenso sobre los pilares de la OOP, explicaciones detalladas sobre qué y como usar alungos tipos de datos especiales y con varios proyectos finales (en mi github hay repositorios acerca de ellos).
-    - [**Link del curso**](https://todocodeacademy.com/course/programacion-orientada-a-objetos-con-java/)
+- **Date of Achievement**: 09/21/23
+- **Certifying Entity**: [TodoCodeAcademy](https://todocodeacademy.com/)
+- **Description**: This course covered the fundamentals of MySQL, offering various exercises to reinforce the concepts learned. These exercises were immensely helpful for understanding the course material.
+- [**Course Link**](https://todocodeacademy.com/course/introduccion-a-las-bases-de-datos-con-mysql/)
+
+### Object-Oriented Programming (OOP) with Java Course
+
+- **Date of Achievement**: 09/27/23
+- **Certifying Entity**: [TodoCodeAcademy](https://todocodeacademy.com/)
+- **Description**: This extensive course delved into the principles of Object-Oriented Programming (OOP), providing detailed explanations of the usage of various special data types. It also included several final projects (repositories for which can be found on my GitHub).
+- [**Course Link**](https://todocodeacademy.com/course/programacion-orientada-a-objetos-con-java/)
+

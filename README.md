@@ -38,4 +38,3 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Description**: This course was about Spring and SpringBoot management. It covered how to create a Spring project with Spring Initializr, how to create a CRUD and finally how to connect the CRUD made with SpringBoot to a database (in this case MySQL) to have an API with 100% functional persistence.
 In addition, I learned how to use PostMan to test the APIs.
 - [**Course Link**](https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/)
-

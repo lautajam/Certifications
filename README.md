@@ -32,3 +32,10 @@ Below, you'll find a list of certifications relevant to my profile:
 - **Description**: This extensive course delved into the principles of Object-Oriented Programming (OOP), providing detailed explanations of the usage of various special data types. It also included several final projects (repositories for which can be found on my GitHub).
 - [**Course Link**](https://todocodeacademy.com/course/programacion-orientada-a-objetos-con-java/)
 
+### [Developing Java APIs with SpringBoot](https://github.com/lautajam/Certifications/blob/main/Developing_Java%20APIs_with_SpringBoot_TodoCode.pdf)
+- **Date of Achievement**: 12/10/23
+- **Certifying Entity**: [TodoCodeAcademy](https://todocodeacademy.com/)
+- **Description**: This course was about Spring and SpringBoot management. It covered how to create a Spring project with Spring Initializr, how to create a CRUD and finally how to connect the CRUD made with SpringBoot to a database (in this case MySQL) to have an API with 100% functional persistence.
+In addition, I learned how to use PostMan to test the APIs.
+- [**Course Link**](https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/)
+
